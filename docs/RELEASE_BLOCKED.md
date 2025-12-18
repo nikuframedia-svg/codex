@@ -1,8 +1,8 @@
 # Release Blocked
 
-**Date**: 2025-12-18T17:53:59.070849
+**Date**: 2025-12-18T18:22:03.821348
 
-**Reason**: Release gate failed with 4 check(s): A2.1 All counts match Excel, A2.2 Funcionarios count, A2.6 Validation status is PASSED, A4.1 Employee productivity is blocked
+**Reason**: Release gate failed with 5 check(s): A2.1 All counts match Excel, A2.2 FasesOrdemFabrico count, A2.2 Funcionarios count, A2.6 Validation status is PASSED, A4.1 Employee productivity is blocked
 
 ## Action Required
 
